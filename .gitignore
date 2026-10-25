@@ -1,12 +1,12 @@
-   # Dataset (download from Kaggle, see README)
-   *.csv
+# Dataset (download from Kaggle, see README)
+*.csv
 
-   # Generated outputs (the copy in figures/ is kept)
-   /all_models_performance_plots.png
+# Generated outputs (the copy in figures/ is kept)
+/all_models_performance_plots.png
 
-   # Python / Jupyter
-   __pycache__/
-   .ipynb_checkpoints/
-   venv/
-   .venv/
-   .DS_Store
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+.DS_Store
