@@ -95,7 +95,7 @@ All five are scikit-learn classifiers with default settings, apart from the chan
 Requires Python 3.10+. The project was developed with Python 3.13.5 and JupyterLab 4.4.3.
 
 ```bash
-git clone https://github.com/fakhem-murshed/ml-ddos-detection-sdn.git
+git clone https://github.com/fakhemm/ml-ddos-detection-sdn.git
 cd ml-ddos-detection-sdn
 
 python3 -m venv venv
